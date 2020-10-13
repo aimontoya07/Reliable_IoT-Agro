@@ -1,0 +1,10 @@
+,,
+Cubic_Spline,Hour,0.102139051879283
+Linear,Hour,0
+Nearest_Neighbor,Hour,0.166119065136255
+Cubic_Spline,Day,0.005882386096309
+Linear,Day,0.000658807845868
+Nearest_Neighbor,Day,1.10173579221077
+Cubic_Spline,Month,0.10641855904552
+Linear,Month,0.096517900902307
+Nearest_Neighbor,Month,3.84788974721432
