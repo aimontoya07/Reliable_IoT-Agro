@@ -6,3 +6,6 @@ Our contributions are:
 • An ML-based mechanism for outlier detection in IoT-based Smart Farming data collection.
 • An interpolation-based mechanism for replacing the outliers detected with inferred data.
 • A case study involving real data collected in a network based on a Fog-IoT-Cloud and deployed in a Colombian Smart Coffee Farm.
+
+
+Check our web site: www.iot-agro.com
