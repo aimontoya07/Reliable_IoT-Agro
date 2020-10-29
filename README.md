@@ -7,6 +7,8 @@ Our proposal includes a conceptual Things-Fog-Cloud based architecture that inco
 
 Our approach is novel because there is no approach based on Machine Learning and Interpolation techniques, to the best of our knowledge, aimed to provide data reliability to Things-Fog-Cloud-based SF applications that support decision-making to farming stakeholders. We evaluate our approach by deploying the three Tiers-based architecture in a Colombian coffee smart farm. We run the FDM and FRM mechanisms at the Fog Tier over this real implementation to perform the data reliability testing. The datasets used in the case study contain real information about the coffee crop temperature in different time scales (hour, day, and month) and, further, information about the data collection sensor technologies (Intel, Omicron, and Libelium). Results show our mechanisms achieve high Accuracy, Precision, and Recall as well as low False Alarm Rate (FAR) and Root Mean Squared Error (RMSE) when detecting and replacing outliers with inferred data. Considering the obtained results, we conclude that our approach provides reliable data collection in Smart Farming to support correct decision-making. 
 
+![MechanismsReliability](https://user-images.githubusercontent.com/72826365/97618109-9e13b500-19ec-11eb-8e9a-9ba9f2d37f46.jpg)
+
 The main contributions of this work are: 
 - An approach that introduces a Things-Fog-Cloud architecture that combines ML and Interpolation techniques to intelligently and automatically provide data reliability on SF applications. 
 - An ML-based mechanism for outlier detection in IoT-based Smart Farming data collection. 
